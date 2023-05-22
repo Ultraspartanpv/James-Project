@@ -1,1 +1,2 @@
-# James-Project
+# Portfolio
+This is my portfolio project
